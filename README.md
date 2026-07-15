@@ -1,46 +1,83 @@
-# HTML Project 01
+# Web Development Journey
 
 ## Overview
 
-This project was created while learning the fundamentals of HTML as part of my web development journey.
+This repository serves as an index of my web development learning journey and the projects I completed while building a strong foundation in frontend development.
 
-The objective of this project was to understand how HTML structures a webpage and how different HTML elements work together.
+Throughout this journey, I focused on developing practical skills by building real-world projects, improving responsive design techniques, and learning modern frontend technologies.
 
-## Technologies Used
+The repositories listed below represent the projects I completed as part of my learning process.
+
+---
+
+## Technical Skills
+
+### Frontend Development
 
 - HTML5
+- CSS3
+- Tailwind CSS
 
-## Features
+### Responsive Design
 
-- Basic webpage structure
-- Semantic HTML elements
-- Images
-- Links
-- Lists
-- Tables
-- Forms
+- Responsive Web Design
+- Flexbox
+- CSS Grid
+- Mobile-First Design
+
+### Development Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Chrome DevTools
+
+---
+
+## Additional Learning
+
+During the Programming Hero Batch 10 course, I also studied the fundamentals of:
+
+- JavaScript (ES6+)
+- React
+- Next.js
+
+While these technologies were part of my learning journey, the repositories in this collection primarily showcase projects built with HTML, CSS, and Tailwind CSS.
+
+---
+
+## Projects
+
+| Project | Description |
+|----------|-------------|
+| [My First GitHub Repository](https://github.com/ibelalansari/PH-B10-My-First-GitHub-Repository) | Introduction to Git and GitHub version control. |
+| [Simple Portfolio Website](https://github.com/ibelalansari/PH-B10-A1-Simple-Portfolio-Website) | Personal portfolio built with HTML and CSS. |
+| [Versatile UI](https://github.com/ibelalansari/PH-B10A2-Versatile-UI) | Responsive interface focusing on layout and design. |
+| [Website Using Tailwind CSS](https://github.com/ibelalansari/PH-B10-A3-Website-Using-Tailwind) | Responsive website built using Tailwind CSS. |
+| [G3 Architects Website Practice](https://github.com/ibelalansari/PH-B10-G3-Architects-Website-Practice) | Responsive landing page for an architecture company. |
+| [Web Developer Portfolio Practice](https://github.com/ibelalansari/Web-Developer-Portfolio-Practice) | Personal portfolio project to strengthen frontend development skills. |
+
+---
 
 ## What I Learned
 
-Through this project I learned:
+This learning journey helped me develop practical experience with:
 
-- HTML document structure
-- Semantic elements
-- Working with forms
-- Using images and hyperlinks
-- Creating tables and lists
-- Organizing webpage content
+- Writing semantic HTML
+- Creating responsive layouts
+- Building user-friendly interfaces
+- Working with Tailwind CSS
+- Organizing frontend project structure
+- Managing source code with Git and GitHub
+- Following a structured development workflow
 
-## Project Status
+---
 
-Completed as part of the Programming Hero Batch 10 curriculum.
+## Connect With Me
 
-## Author
+- **GitHub:** https://github.com/ibelalansari
+- **LinkedIn:** https://www.linkedin.com/in/ibelalansari/
 
-Belal Ansari
+---
 
-GitHub:
-https://github.com/ibelalansari
-
-LinkedIn:
-https://linkedin.com/in/ibelalansari
+**Author:** Belal Ansari
