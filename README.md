@@ -42,5 +42,5 @@ Belal Ansari
 GitHub:
 https://github.com/ibelalansari
 
-LinkedIn
+LinkedIn:
 https://linkedin.com/in/ibelalansari
